@@ -93,8 +93,8 @@
         "RelatedLinks": "Related Links",
         "Support": "Support",
         "Aboutus": "About us",
-        "frequently_asked_questions": "Frequently asked questions",
-        "contact_us": "Contact Us",
+        "frequentlyAskedQuestions": "Frequently asked questions",
+        "contactUs": "Contact Us",
         "copyright": "Copyright"
     },
     "learn": {
@@ -455,7 +455,7 @@
         "sidepanelMyDiscuss":"My Discussions",
         "startDiscuss":"Start Discusion",
         "startDiscussQues":"Question is mandatory",
-        "Desc_mandatory":"Description is mandatory",
+        "descriptionMandatory":"Description is mandatory",
         "btnSubmitPost":"Submit post",
         "comments":"comments",
         "yourAnswerHere":"Your answer here",
@@ -691,7 +691,8 @@
         "whatIsFrac":"What is FRAC?",
         "FRACAns":"The Framework of Roles, Activities and Competencies (FRAC), as termed within Mission Karmayogi’s Integrated Government Online Training platform (iGOT) initiative, is the mapping of three constructs (roles, activities and competencies, supported by knowledge resources) for each individual position within all government ministries, departments and organisations (MDOs) at the national, state and local level.",
         "workOrderQ":"What is a Work order?",
-        "workOrderA":"Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary."
+        "workOrderA":"Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary.",
+        "faqFrequentlyAskedQuestions":"Frequently Asked Questions"
     },
 
     "profileView": {
