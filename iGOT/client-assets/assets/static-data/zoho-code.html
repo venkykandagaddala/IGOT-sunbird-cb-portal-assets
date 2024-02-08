@@ -10,6 +10,15 @@
 
         #zohoSupportWebToCase td {
             padding: 0px 5px 11px 5px;
+            
+        }
+        #zohoSupportWebToCase td p.main-form-text {
+            box-shadow: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
+            border: 1px solid #ddd;
+            padding:10px 0px;
+            box-sizing: border-box;
+            display: block;
+            width: auto;
         }
 
         #zohoSupportWebToCase textarea,
@@ -206,6 +215,34 @@
             overflow-y: auto;
             width: 100%;
         }
+        .submit-btn {
+            background: #1a4ca1;
+            color: #fff;
+            border-radius: 20px;
+            height: 30px;
+            text-align: center;
+            box-sizing: border-box;
+            font: 400 13px/30px 'Lato'!important;
+            height: 35px;
+             width: 100px;
+             box-shadow: none;
+             border:2px solid #1a4ca1;
+             cursor: pointer;
+        }
+        .reset-btn {
+            background: #ddd;
+            color: #888;
+            border-radius: 20px;
+            height: 30px;
+            text-align: center;
+            box-sizing: border-box;
+            font: 400 13px/30px 'Lato'!important;
+            height: 35px;
+             width: 100px;
+             box-shadow: none;
+             border:2px solid #ddd;
+             cursor: pointer;
+        }
     </style>
     <script src='https://js.zohostatic.in/support/app/js/jqueryandencoder.ffa5afd5124fbedceea9.js'></script>
     <script>function trimBoth(str) { return jQuery.trim(str); }
@@ -247,7 +284,7 @@
         <table border='0' cellspacing='0' class='zsFormClass'>
             <tr>
                 <td colspan='2' class='zsFontClass'>
-                    <p class="mat-subheading-1 text-center">Enter Details To Raise Your Concern</p>
+                    <p class="mat-subheading-1 text-center main-form-text">Enter Details To Raise Your Concern</p>
                 </td>
             </tr><br>
             <tr>
@@ -415,9 +452,10 @@
                             value='' /></div>
                 </td>
             <tr>
-                <td style='padding: 11px 5px 0px 5px;' colspan='2' align='center' width='25%'> <input type='submit'
-                        id="zsSubmitButton_120349000004451166" class='zsFontClass' value='Submit'> &nbsp; &nbsp; <input
-                        type='button' class='zsFontClass' value='Reset' onclick="zsResetWebForm('120349000004451166')">
+                <td style='padding: 11px 5px 0px 5px;' colspan='2' align='center' width='25%'> 
+                    <input type='submit'
+                        id="zsSubmitButton_120349000004451166" class='zsFontClass submit-btn' value='Submit'> &nbsp; &nbsp; <input
+                        type='button' class='zsFontClass reset-btn' value='Reset' onclick="zsResetWebForm('120349000004451166')">
                 </td>
             </tr>
             <tr>
