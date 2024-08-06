@@ -926,6 +926,8 @@
     },
     {
       "order": 2,
+      "stripType": "withPils",
+      "stripVisable": "responsive",
       "strips": [
         {
           "active": true,
@@ -953,10 +955,10 @@
             "cardSubType": "card-progress-portrait-lib"
           },
           "viewMoreUrl": {
-            "path": "/app/seeAll",
+            "path": "/app/seeAll/new",
             "viewMoreText": "Show all",
             "queryParams": {
-              "key": "continueLearning"
+              "key": "continueLearningContent"
             },
             "loaderConfig": {
               "cardSubType": "card-portrait-skeleton"
@@ -969,20 +971,52 @@
             {
               "label": "In Progress",
               "value": "inprogress",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You don’t have any new course in progress."
+              "pillsData": [
+                {
+                  "label": "Content",
+                  "value": "content",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "nodataMsg": "You don’t have any new course in progress."
+                },
+                {
+                  "label": "External Content",
+                  "value": "externalContent",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see here all the content for which the due date has passed."
+                }
+              ]
             },
             {
               "label": "Completed",
               "value": "completed",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You will find your Completed Courses/Program here."
+              "pillsData": [
+                {
+                  "label": "Content",
+                  "value": "content",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "nodataMsg": "You don’t have any new course in progress."
+                },
+                {
+                  "label": "External Content",
+                  "value": "externalContent",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see here all the content for which the due date has passed."
+                }
+              ]
             }
           ],
           "filters": [],
@@ -2609,11 +2643,11 @@
     {
       "order": 2,
       "stripType": "withOutPils",
-      "stripVisable": "mobile",
+      "stripVisable": "responsive",
       "strips": [
         {
           "active": true,
-          "key": "continueLearning",
+          "key": "continueLearningContent",
           "logo": "school",
           "title": "My Learning",
           "customeClass": "mr-5",
@@ -2653,20 +2687,53 @@
             {
               "label": "In Progress",
               "value": "inprogress",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You don’t have any new course in progress."
+              "pillsData": [
+                {
+                  "label": "Content",
+                  "value": "inprogressContent",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": true,
+                  "nodataMsg": "You don’t have any new course in progress."
+                },
+                {
+                  "label": "External Content",
+                  "value": "inprogressExtContent",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see here all the content for which the due date has passed."
+                }
+              ]
             },
             {
               "label": "Completed",
               "value": "completed",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You will find your Completed Courses/Program here."
+              "pillsData": [
+                {
+                  "label": "Content",
+                  "value": "completedContent",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "nodataMsg": "You don’t have any new course in progress."
+                },
+                {
+                  "label": "External Content",
+                  "value": "completedExtContent",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see here all the content for which the due date has passed."
+                }
+              ]
             }
           ],
           "filters": [],
