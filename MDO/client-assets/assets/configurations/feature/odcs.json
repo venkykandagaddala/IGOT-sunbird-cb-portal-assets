@@ -201,7 +201,7 @@
                      "enabaleEdit":false,
                      "enableDelete":false,
                      "enableThreeDot":true,
-                     "showSearch": false
+                     "showSearch": true
                 },
                 {
                     "index": 3,
@@ -217,7 +217,7 @@
                      "enabaleEdit":true,
                      "enableDelete":false,
                      "enableThreeDot":true,
-                     "showSearch": false
+                     "showSearch": true
                 },
                 {
                     "index": 4,
@@ -233,7 +233,7 @@
                     "enabaleEdit":false,
                     "enableDelete":true,
                     "enableThreeDot":true,
-                    "showSearch": false
+                    "showSearch": true
                 }
             ]
         }
