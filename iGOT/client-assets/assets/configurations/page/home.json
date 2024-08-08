@@ -1109,6 +1109,19 @@
       }
     ]
   },
+  "surveyPopup": {
+    "active": true,
+    "banners": {
+      "l": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723022835420_Group%202.svg",
+      "m": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723025777344_survey_popup_mobile.svg",
+      "s": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723025777344_survey_popup_mobile.svg",
+      "xl": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723022835420_Group%202.svg",
+      "xs": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723025777344_survey_popup_mobile.svg",
+      "xxl": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723022835420_Group%202.svg"
+    },
+    "buttonName": "Take Survey",
+    "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e250da8bfb500083136b1"
+  },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",
