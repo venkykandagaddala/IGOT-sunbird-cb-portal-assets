@@ -1112,12 +1112,12 @@
   "surveyPopup": {
     "active": true,
     "banners": {
-      "l": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723022835420_Group%202.svg",
-      "m": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723025777344_survey_popup_mobile.svg",
-      "s": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723025777344_survey_popup_mobile.svg",
-      "xl": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723022835420_Group%202.svg",
-      "xs": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723025777344_survey_popup_mobile.svg",
-      "xxl": "https://portal.karmayogiqa.nic.in/content-store/orgStore/0135071359030722569/1723022835420_Group%202.svg"
+      "l": "assets/instances/eagle/survey-img/desktop.svg",
+      "m": "assets/instances/eagle/survey-img/mobile.svg",
+      "s": "assets/instances/eagle/survey-img/mobile.svg",
+      "xl": "assets/instances/eagle/survey-img/desktop.svg",
+      "xs": "assets/instances/eagle/survey-img/mobile.svg",
+      "xxl": "assets/instances/eagle/survey-img/desktop.svg"
     },
     "buttonName": "Take Survey",
     "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e250da8bfb500083136b1"
