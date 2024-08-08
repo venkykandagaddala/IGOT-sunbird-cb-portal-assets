@@ -1109,6 +1109,19 @@
       }
     ]
   },
+  "surveyPopup": {
+    "active": true,
+    "banners": {
+      "l": "assets/instances/eagle/survey-img/desktop.svg",
+      "m": "assets/instances/eagle/survey-img/mobile.svg",
+      "s": "assets/instances/eagle/survey-img/mobile.svg",
+      "xl": "assets/instances/eagle/survey-img/desktop.svg",
+      "xs": "assets/instances/eagle/survey-img/mobile.svg",
+      "xxl": "assets/instances/eagle/survey-img/desktop.svg"
+    },
+    "buttonName": "Take Survey",
+    "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e250da8bfb500083136b1"
+  },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",
