@@ -566,7 +566,8 @@
                             var attachmentsDetailJSON = attachments[attachmentsIndex];
                             var zsCloudAttachmentName = attachmentsDetailJSON['docName'];
                             var extension = zsCloudAttachmentName.split('.').pop().toLowerCase();
-                            var unSupportedExtensions = ["ade", "adp", "apk", "appx", "appxbundle", "bat", "cab", "cer", "chm", "cmd", "com", "cpl", "dll", "dmg", "exe", "hlp", "hta", "ins", "iso", "isp", "jar", "js", "jse", "lnk", "mde", "msc", "msi", "msix", "msixbundle", "msp", "mst", "nsh", "pif", "ps1", "pst", "reg", "scr", "sct", "shb", "sys", "tmp", "url", "vb", "vbe", "vbs", "vxd", "wsc", "wsf", "wsh", "terminal"];
+                            var unSupportedExtensions = ["ade", "adp", "apk", "appx", "appxbundle", "bat", "cab", "cer", "chm", "cmd", "com", "cpl", "dll", "dmg", "exe", "hlp", "hta", "ins", "iso", "isp", "jar", "js", "jse", "lnk", "mde", "msc", "msi", "msix", "msixbundle", "msp", "mst", "nsh", "pif", "ps1", "pst", "reg", "scr", "sct", "shb", "sys", "tmp", "url", "vb", "vbe", "vbs", "vxd", "wsc", "wsf", "wsh", "terminal","zip"];
+                            var supportedExtensions = ["jpg","png","jpeg","gif","pdf","msword","mp4" ]
                             if(supportedExtensions.indexOf(extension) == -1 ) {
                                 alert("The file wasn't attached since its extension is not supported.");
                                 return;
@@ -613,9 +614,9 @@
 
         function zsRenderBrowseFileAttachment(zsAttachmentObject, zsAttachmentDetails) {
             if (zsAttachmentObject != '') {
-                if ((zsAttachmentDetails.files && (zsAttachmentDetails.files[0].size / (1024 * 1024)) > 20)) {
+                if ((zsAttachmentDetails.files && (zsAttachmentDetails.files[0].size / (1024 * 1024)) > 10)) {
                     zsAttachmentDetails.value = '';
-                    alert('Maximum allowed file size is 20MB.');
+                    alert('Maximum allowed file size is 10MB.');
                     return;
                 }
                 if (zsAttachedAttachmentsCount < 5) {
@@ -629,7 +630,7 @@
                     }
                     var extension = zsFileName.split('.').pop().toLowerCase();
                     var unSupportedExtensions = ["ade", "adp", "apk", "appx", "appxbundle", "bat", "cab", "cer", "chm", "cmd", "com", "cpl", "dll", "dmg", "exe", "hlp", "hta", "ins", "iso", "isp", "jar", "js", "jse", "lnk", "mde", "msc", "msi", "msix", "msixbundle", "msp", "mst", "nsh", "pif", "ps1", "pst", "reg", "scr", "sct", "shb", "sys", "tmp", "url", "vb", "vbe", "vbs", "vxd", "wsc", "wsf", "wsh", "terminal",
-                    "bin", "exe", "msi"
+                    "bin", "exe", "msi","zip"
                     ];
                     var supportedExtensions = ["jpg","png","jpeg","gif","pdf","msword","mp4" ]
                     if(supportedExtensions.indexOf(extension) == -1 ) {
@@ -885,7 +886,7 @@
                         onclick='zsOpenFileBrowseAttachment(event)'
                         onchange='zsRenderBrowseFileAttachment(this.value, this)' />
                     <div class="clboth"></div><span id='zsMaxSizeMessage'
-                        style='color:black;font-size: 8px;float: left;'>Each of your file(s) can be up to 20MB in
+                        style='color:black;font-size: 8px;float: left;'>Each of your file(s) can be up to 10MB in
                         size.</span><span id='zsMaxLimitMessage'
                         style='color:black;font-size: 8px;float: left;margin-left: 14px;display: none;'>You can attach
                         as many as 5 files at a time.</span>
