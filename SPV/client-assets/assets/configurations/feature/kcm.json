@@ -55,7 +55,7 @@
                      "categoryDisplayName": "Competency Area",
                      "labelName":"Competency Area",
                      "enableAdd":true,
-                     "enableView":false,
+                     "enableView":true,
                      "enabaleEdit":false,
                      "enableThreeDot":true
                 },
@@ -102,7 +102,7 @@
                      "categoryDisplayName": "Competency Area",
                      "labelName":"Competency Area",
                      "enableAdd":true,
-                     "enableView":false,
+                     "enableView":true,
                      "enabaleEdit":false,
                      "enableThreeDot":true
                 },
@@ -149,7 +149,7 @@
                      "categoryDisplayName": "Competency Area",
                      "labelName":"Competency Area",
                      "enableAdd":true,
-                     "enableView":false,
+                     "enableView":true,
                      "enabaleEdit":false,
                      "enableThreeDot":true,
                      "showSearch": false
@@ -201,7 +201,7 @@
                      "categoryDisplayName": "Competency Area",
                      "labelName":"Competency Area",
                      "enableAdd":true,
-                     "enableView":false,
+                     "enableView":true,
                      "enabaleEdit":false,
                      "enableThreeDot":true,
                      "showSearch": false
