@@ -14,7 +14,7 @@
         ],
         "guideVideo": {
             "type": "video/mp4",
-            "url": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4",
+            "url": "/content-store/SPV_KCM_Mapping.mp4",
             "enabled": false
         }
     },
