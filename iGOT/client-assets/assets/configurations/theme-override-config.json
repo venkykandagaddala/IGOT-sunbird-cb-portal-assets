@@ -22,6 +22,25 @@
         "0xffCBEED2"
       ]
     },
-    "serverUnderMaintenance": false
+    "serverUnderMaintenance": {
+      "enabled": false,
+      "greet": "Namaste Karmayogi,",
+      "title": "We will be back soon!",
+      "sub-title": "From 16th August, 10 PM to 18th August, 10 PM",
+      "description": "Our Application is undergoing a major technology upgrade to bring you a better experience and enhance your learning journey at iGOT.",
+      "thumbnailTitle": "Meanwhile, Explore Karmayogi Talks & Course on YouTube.",
+      "thumbnails": [
+        {
+          "image": "assets/maintenance/karmayogi-talk.png",
+          "redirectionUrl": "https://www.youtube.com/playlist?list=PLMzVnzbHaB8tpuYUiTTITmSgMfH8uZWMN",
+          "title": "Karmayogi Talks"
+        },
+        {
+          "image": "assets/maintenance/Course-preview.png",
+          "redirectionUrl": "https://www.youtube.com/playlist?list=PLMzVnzbHaB8uqc3APlK_oXkDaOhmMmrrY",
+          "title": "Course Preview"
+        }
+      ]
+    }
   }
 }
