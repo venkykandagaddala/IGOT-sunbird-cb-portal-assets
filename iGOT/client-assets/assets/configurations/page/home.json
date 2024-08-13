@@ -1109,6 +1109,48 @@
       }
     ]
   },
+  "surveyPopup": {
+    "active": true,
+    "banners": {
+      "l": "assets/instances/eagle/survey-img/desktop.svg",
+      "m": "assets/instances/eagle/survey-img/mobile.svg",
+      "s": "assets/instances/eagle/survey-img/mobile.svg",
+      "xl": "assets/instances/eagle/survey-img/desktop.svg",
+      "xs": "assets/instances/eagle/survey-img/mobile.svg",
+      "xxl": "assets/instances/eagle/survey-img/desktop.svg"
+    },
+    "mobileBanner": "assets/instances/eagle/survey-img/survey_pop_up_mobile.png",
+    "buttonName": "Take Survey",
+    "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e250da8bfb500083136b1"
+  },
+  "mdoChannelMobile": {
+    "qa": {
+      "active": true,
+      "orgBookmarkId": "38fd55c0-2723-11ef-b7bd-6754f54dd52f"
+    },
+    "uat": {
+      "active": true,
+      "orgBookmarkId": "d8603620-3775-11ef-922d-897d09cffbf2"
+    },
+    "prod": {
+      "active": false,
+      "orgBookmarkId": ""
+    }
+  },
+  "micrositeMobile": {
+    "qa": {
+      "active": true,
+      "featuredProviderDoId": "do_1140809843675136001224"
+    },
+    "uat": {
+      "active": true,
+      "featuredProviderDoId": "do_114081134376157184129"
+    },
+    "prod": {
+      "active": true,
+      "featuredProviderDoId": "do_1140809851011317761688"
+    }
+  },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",

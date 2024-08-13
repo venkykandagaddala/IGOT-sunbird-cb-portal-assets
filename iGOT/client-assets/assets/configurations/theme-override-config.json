@@ -1,27 +1,46 @@
 {
   "overrideThemeChanges": {
-    "isEnabled": false,
+    "isEnabled": true,
     "desktop": {
       "animationDuration": 15000,
       "logoUrl": "/assets/instances/eagle/app_logos/flaglogo.gif",
-      "logoText": "75th Republic Day",
+      "logoText": "78th Independence Day",
       "logoDisplayTime": 1800000,
       "backgroundTheme": "linear-gradient(to left, #138808 33%, #ffffff 33%, #ffffff 66%, #FF9933 66% );"
     },
     "mWeb": {
       "logoUrl": "/assets/instances/eagle/app_logos/flaglogo.gif",
-      "logoText": "75th Republic Day"
+      "logoText": "78th Independence Day"
     },
     "mobile": {
-      "isEnabled": false,
+      "isEnabled": true,
       "logoUrl": "/assets/instances/eagle/app_logos/mobile_animation_file.json",
-      "logoText": "75th Republic Day",
+      "logoText": "78th Independence Day",
       "backgroundColors": [
         "0xffF8DACE",
         "0xffFFFFFF",
         "0xffCBEED2"
       ]
     },
-    "serverUnderMaintenance": true
+    "serverUnderMaintenance": {
+      "enabled": false,
+      "greet": "Namaste Karmayogi,",
+      "title": "We will be back soon!",
+      "sub-title": "From 16th August, 10 PM to 18th August, 10 PM",
+      "description": "Our Application is undergoing a major technology upgrade to bring you a better experience and enhance your learning journey at iGOT.",
+      "thumbnailTitle": "Meanwhile, Explore Karmayogi Talks & Course on YouTube.",
+      "thumbnails": [
+        {
+          "image": "assets/maintenance/karmayogi-talk.png",
+          "redirectionUrl": "https://www.youtube.com/playlist?list=PLMzVnzbHaB8tpuYUiTTITmSgMfH8uZWMN",
+          "title": "Karmayogi Talks"
+        },
+        {
+          "image": "assets/maintenance/Course-preview.png",
+          "redirectionUrl": "https://www.youtube.com/playlist?list=PLMzVnzbHaB8uqc3APlK_oXkDaOhmMmrrY",
+          "title": "Course Preview"
+        }
+      ]
+    }
   }
 }
