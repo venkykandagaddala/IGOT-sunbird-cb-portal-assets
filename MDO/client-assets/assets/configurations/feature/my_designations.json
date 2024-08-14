@@ -18,7 +18,7 @@
         ],
         "guideVideo": {
             "type": "video/mp4",
-            "url": "/content-store/MDO_ODCS.mp4",
+            "url": "/assets/public/content/guide-videos/MDO_ODCS.mp4",
             "enabled": false
         }
     },

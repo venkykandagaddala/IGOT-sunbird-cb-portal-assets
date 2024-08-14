@@ -14,7 +14,7 @@
         ],
         "guideVideo": {
             "type": "video/mp4",
-            "url": "/content-store/MDO_ODCS.mp4",
+            "url": "/assets/public/content/guide-videos/MDO_ODCS.mp4",
             "enabled": false
         }
     },
@@ -31,11 +31,11 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false,
-                    "labelName":"Organisation",
-                     "enableAdd":false,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true
+                    "labelName": "Organisation",
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true
                 },
                 {
                     "index": 2,
@@ -44,11 +44,11 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false,
-                    "labelName":"Designation",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true
+                    "labelName": "Designation",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true
                 },
                 {
                     "index": 3,
@@ -57,11 +57,11 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": true,
                     "iconEnabled": false,
-                    "labelName":"Competency",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true
+                    "labelName": "Competency",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true
                 },
                 {
                     "index": 4,
@@ -70,11 +70,11 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": true,
                     "iconEnabled": false,
-                    "labelName":"Sub Theme",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true
+                    "labelName": "Sub Theme",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true
                 }
             ]
         },
@@ -170,7 +170,7 @@
             ]
         }
     ],
-    "defaultOdcsConfig":[
+    "defaultOdcsConfig": [
         {
             "frameworkId": "odctest_fw",
             "config": [
@@ -181,13 +181,13 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false,
-                    "labelName":"Organisation",
-                     "enableAdd":false,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableDelete":false,
-                     "enableThreeDot":false,
-                     "showSearch": false
+                    "labelName": "Organisation",
+                    "enableAdd": false,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableDelete": false,
+                    "enableThreeDot": false,
+                    "showSearch": false
                 },
                 {
                     "index": 2,
@@ -196,13 +196,13 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false,
-                    "labelName":"Designation",
-                     "enableAdd":true,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableDelete":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "labelName": "Designation",
+                    "enableAdd": true,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableDelete": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 3,
@@ -211,14 +211,14 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": true,
                     "iconEnabled": false,
-                    "labelName":"Competency",
+                    "labelName": "Competency",
                     "categoryDisplayName": "Competency Theme",
-                     "enableAdd":false,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableDelete":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableDelete": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 4,
@@ -227,19 +227,19 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false,
-                    "labelName":"Sub Theme",
+                    "labelName": "Sub Theme",
                     "categoryDisplayName": "Competency Sub Theme",
-                    "enableAdd":false,
-                    "enableView":true,
-                    "enabaleEdit":false,
-                    "enableDelete":true,
-                    "enableThreeDot":true,
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": false,
+                    "enableDelete": true,
+                    "enableThreeDot": true,
                     "showSearch": false
                 }
             ]
         }
     ],
-    "defaultKCMConfig":[
+    "defaultKCMConfig": [
         {
             "frameworkId": "kcmfinal_fw_v1",
             "config": [
@@ -248,15 +248,15 @@
                     "category": "competencyarea",
                     "icon": "person",
                     "color": "rgb(115, 115, 115)",
-                   "createBtnEnabled": false,
+                    "createBtnEnabled": false,
                     "iconEnabled": false,
-                     "categoryDisplayName": "Competency Area",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "categoryDisplayName": "Competency Area",
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 2,
@@ -266,12 +266,12 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Theme",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 3,
@@ -281,11 +281,11 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Sub Theme",
-                    "labelName":"Competency Area",
-                    "enableAdd":false,
-                    "enableView":true,
-                    "enabaleEdit":true,
-                    "enableThreeDot":true,
+                    "labelName": "Competency Area",
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
                     "showSearch": false
                 }
             ]
