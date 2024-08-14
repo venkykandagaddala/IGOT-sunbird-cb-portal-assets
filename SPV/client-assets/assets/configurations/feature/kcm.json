@@ -14,7 +14,7 @@
         ],
         "guideVideo": {
             "type": "video/mp4",
-            "url": "/content-store/SPV_KCM_Mapping.mp4",
+            "url": "/assets/public/content/guide-videos/SPV_KCM_Mapping.mp4",
             "enabled": false
         }
     },
@@ -52,13 +52,13 @@
                     "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false,
-                     "categoryDisplayName": "Competency Area",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "categoryDisplayName": "Competency Area",
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 2,
@@ -68,12 +68,12 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Theme",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 3,
@@ -83,11 +83,11 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Sub Theme",
-                    "labelName":"Competency Area",
-                    "enableAdd":false,
-                    "enableView":true,
-                    "enabaleEdit":true,
-                    "enableThreeDot":true,
+                    "labelName": "Competency Area",
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
                     "showSearch": false
                 }
             ]
@@ -100,15 +100,15 @@
                     "category": "competencyarea",
                     "icon": "person",
                     "color": "rgb(115, 115, 115)",
-                   "createBtnEnabled": false,
+                    "createBtnEnabled": false,
                     "iconEnabled": false,
-                     "categoryDisplayName": "Competency Area",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "categoryDisplayName": "Competency Area",
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 2,
@@ -118,12 +118,12 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Theme",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 3,
@@ -133,11 +133,11 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Sub Theme",
-                    "labelName":"Competency Area",
-                    "enableAdd":false,
-                    "enableView":true,
-                    "enabaleEdit":true,
-                    "enableThreeDot":true,
+                    "labelName": "Competency Area",
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
                     "showSearch": false
                 }
             ]
@@ -150,15 +150,15 @@
                     "category": "competencyarea",
                     "icon": "person",
                     "color": "rgb(115, 115, 115)",
-                   "createBtnEnabled": false,
+                    "createBtnEnabled": false,
                     "iconEnabled": false,
-                     "categoryDisplayName": "Competency Area",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "categoryDisplayName": "Competency Area",
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 2,
@@ -168,12 +168,12 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Theme",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 3,
@@ -183,17 +183,17 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Sub Theme",
-                    "labelName":"Competency Area",
-                    "enableAdd":false,
-                    "enableView":true,
-                    "enabaleEdit":true,
-                    "enableThreeDot":true,
+                    "labelName": "Competency Area",
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
                     "showSearch": false
                 }
             ]
         }
     ],
-    "defaultKCMConfig":[
+    "defaultKCMConfig": [
         {
             "frameworkId": "kcmfinal_fw_v1",
             "config": [
@@ -202,15 +202,15 @@
                     "category": "competencyarea",
                     "icon": "person",
                     "color": "rgb(115, 115, 115)",
-                   "createBtnEnabled": false,
+                    "createBtnEnabled": false,
                     "iconEnabled": false,
-                     "categoryDisplayName": "Competency Area",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":false,
-                     "enabaleEdit":false,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "categoryDisplayName": "Competency Area",
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": false,
+                    "enabaleEdit": false,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 2,
@@ -220,12 +220,12 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Theme",
-                     "labelName":"Competency Area",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true,
-                     "showSearch": false
+                    "labelName": "Competency Area",
+                    "enableAdd": true,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
+                    "showSearch": false
                 },
                 {
                     "index": 3,
@@ -235,15 +235,14 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "categoryDisplayName": "Competency Sub Theme",
-                    "labelName":"Competency Area",
-                    "enableAdd":false,
-                    "enableView":true,
-                    "enabaleEdit":true,
-                    "enableThreeDot":true,
+                    "labelName": "Competency Area",
+                    "enableAdd": false,
+                    "enableView": true,
+                    "enabaleEdit": true,
+                    "enableThreeDot": true,
                     "showSearch": false
                 }
             ]
         }
     ]
 }
-
