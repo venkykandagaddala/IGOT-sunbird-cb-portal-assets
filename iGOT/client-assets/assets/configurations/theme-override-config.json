@@ -23,7 +23,7 @@
       ]
     },
     "serverUnderMaintenance": {
-      "enabled": false,
+      "enabled": true,
       "greet": "Namaste Karmayogi,",
       "title": "We will be back soon!",
       "sub-title": "From 16th August, 10 PM to 18th August, 10 PM",
