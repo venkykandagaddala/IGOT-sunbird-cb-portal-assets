@@ -43,7 +43,7 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 			// }
 			// fileReader.readAsDataURL(fileToLoad)
 			// fileDialog.val('');
-			fileDialog.val('');
+			fileDialog.val('')
 			$.ajax({
 				url: contentCreateUrl,
 				type: 'POST',
@@ -62,25 +62,17 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 					}).done(function (imageResponse) {
 						var ele = editor.document.createElement('img')
 						var artifactUrlUpdated = ''
-						if ((artifactUrl).includes('karmayogiqa.nic.in')) {
-							artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotqa", artifactUrl)
-						} else if ((artifactUrl).includes('karmayogibm.nic.in')) {
-							artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotbm", artifactUrl)
-						} else if ((artifactUrl).includes('igotkarmayogi.gov.in')) {
-							artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotprod", artifactUrl)
-						} else if ((artifactUrl).includes('karmayogi.nic.in')) {
-							artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igot", artifactUrl)
-						}
+						artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://storage.googleapis.com/igot", artifactUrl)
 						ele.setAttribute('src', artifactUrlUpdated)
 						ele.setAttribute('height', '100')
 						ele.setAttribute('width', '100')
 						editor.insertElement(ele)
 						editor.document.getById('loader').remove()
-						fileDialog.val('');
+						fileDialog.val('')
 					}).fail(function () {
-						console.log('in error');
-						fileDialog.val('');
-					});
+						console.log('in error')
+						fileDialog.val('')
+					})
 				}
 
 			})
