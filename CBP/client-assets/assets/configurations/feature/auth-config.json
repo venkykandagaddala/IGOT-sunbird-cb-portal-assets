@@ -299,7 +299,8 @@
             "editor",
             "content_creator",
             "program_coordinator",
-            "cbp_admin"
+            "cbp_admin",
+            "spv_publisher"
           ],
           "subMenu": [
             {
@@ -461,6 +462,26 @@
                 "content-admin",
                 "editor",
                 "content_creator"
+              ]
+            },
+            {
+              "name": "How Tos",
+              "key": "how-tos",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/how-to",
+              "requiredRoles": [
+                "cbp_admin",
+                "program_coordinator",
+                "content_reviewer",
+                "content_publisher",
+                "content_creator",
+                "spv_publisher"
               ]
             }
           ]
