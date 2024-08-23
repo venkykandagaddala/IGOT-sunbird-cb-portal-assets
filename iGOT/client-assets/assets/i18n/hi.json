@@ -2319,12 +2319,12 @@
     "emailDigilockerNote": "2. डिजिलॉकर पर अपने प्रमाणपत्रों को देखने के लिए, कृपया सुनिश्चित करें कि दोनों प्लेटफार्मों पर मोबाइल नंबर मेल खाते हों।",
     "emailApprovedPopupMsg": "ईमेल आईडी को बदलने के लिए केवल अनुमोदित सरकारी ईमेल डोमेन की अनुमति है।",
     "emailApprovedPopupSubmsg": "यदि ईमेल आई.डी. बदलने में कोई परेशानी हो रही है, तो कृपया एम.डी.ओ. एड्मिन से संपर्क करें।",
-    "isCadre": "Are you a Cadre Employee?",
-    "typeOfCivilService": "Type of Civil Service",
-    "serviceType": "Service",
-    "cadre": "Cadre",
-    "batch" : "Batch",
-    "requestForService": "Request for service",
-    "cadreControllingAuthority": "Cadre Controlling Authority"
+    "isCadre": "क्या आप एक संवर्ग कर्मचारी हैं?",
+    "typeOfCivilService": "सिविल सेवा का प्रकार",
+    "serviceType": "सेवा",
+    "cadre": "संवर्ग",
+    "batch" : "बैच",
+    "requestForService": सेवा के लिए अनुरोध",
+    "cadreControllingAuthority": "संवर्ग नियंत्रण प्राधिकरण
   }
 }
