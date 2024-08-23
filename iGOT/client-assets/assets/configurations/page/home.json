@@ -2250,12 +2250,12 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "l": "assets/instances/eagle/banners/orgs/new-banner/1/lg.jpg",
         "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/lg.jpg",
         "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/lg.jpg"
       },
       "redirectUrl": "/app/globalsearch",
       "openInNewTab": false,
@@ -2309,12 +2309,12 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "l": "assets/instances/eagle/banners/orgs/new-banner/2/lg.jpg",
         "m": "assets/instances/eagle/banners/orgs/new-banner/2/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/lg.jpg",
         "xs": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png"
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/lg.jpg"
       },
       "redirectUrl": "/app/globalsearch",
       "queryParams": {
