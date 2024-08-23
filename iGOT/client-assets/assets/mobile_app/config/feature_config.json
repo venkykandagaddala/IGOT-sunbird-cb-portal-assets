@@ -2,7 +2,7 @@
   "mentorship": {
     "isEnabled": true
   },
-  "maintmaintenance": {
+  "serverMaintenance": {
     "isEnabled": false
   },
   "nudges": {},
