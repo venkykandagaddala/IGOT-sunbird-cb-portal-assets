@@ -1,0 +1,15 @@
+{
+  "mentorship": {
+    "isEnabled": true
+  },
+  "serverMaintenance": {
+    "isEnabled": false
+  },
+  "nudges": {},
+  "overrideTheme": {
+    "isEnabled": false,
+    "logoUrl": "/assets/instances/eagle/app_logos/mobile_animation_file.json",
+    "logoText": "75th Republic Day",
+    "backgroundColors": ["0xffF8DACE", "0xffFFFFFF", "0xffCBEED2"]
+  }
+}
