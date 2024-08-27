@@ -68,7 +68,15 @@ CKEDITOR.plugins.add('simpleVideoUpload', {
                         console.log('artifactUrl', artifactUrl)
                         var ele = editor.document.createElement('video')
                         var artifactUrlUpdated = ''
-                        artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://storage.googleapis.com/igot", artifactUrl)
+                        if ((artifactUrl).includes('cbp.dev.karmayogibharat.net')) {
+                            artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://storage.googleapis.com/igot", artifactUrl)
+                        } else if ((artifactUrl).includes('cbp.qa.karmayogibharat.net')) {
+                            artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://storage.googleapis.com/igotqa", artifactUrl)
+                        } else if ((artifactUrl).includes('cbp.uat.karmayogibharat.net')) {
+                            artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://storage.googleapis.com/igotuat", artifactUrl)
+                        } else if ((artifactUrl).includes('cbp.igotkarmayogi.gov.in/')) {
+                            artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://storage.googleapis.com/igot", artifactUrl)
+                        }
                         ele.setAttribute('src', artifactUrlUpdated)
                         ele.setAttribute('controls', true)
                         ele.setAttribute('controlsList', 'nodownload')
