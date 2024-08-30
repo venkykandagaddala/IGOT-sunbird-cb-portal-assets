@@ -483,6 +483,21 @@
                 "content_creator",
                 "spv_publisher"
               ]
+            },
+            {
+              "name": "CQF content",
+              "key": "cqf-content",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/cqf-content",
+              "requiredRoles": [
+                "spv_publisher"
+              ]
             }
           ]
         }
