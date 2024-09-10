@@ -300,7 +300,9 @@
             "content_creator",
             "program_coordinator",
             "cbp_admin",
-            "spv_publisher"
+            "spv_publisher",
+            "content_reviewer",
+            "content_publisher"
           ],
           "subMenu": [
             {
@@ -477,7 +479,6 @@
               "routerLink": "/author/cbp/how-to",
               "requiredRoles": [
                 "cbp_admin",
-                "program_coordinator",
                 "content_reviewer",
                 "content_publisher",
                 "content_creator",

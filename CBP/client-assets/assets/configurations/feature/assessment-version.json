@@ -8,7 +8,7 @@
     {
         "name": "Advanced assessment",
         "value": "assessmentV2",
-        "compatability": 7,
+        "compatability": 8,
         "enabledFor": ["Standalone Assessment"]
     }
 ]
