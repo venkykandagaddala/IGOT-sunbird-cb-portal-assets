@@ -1110,7 +1110,7 @@
     ]
   },
   "surveyPopup": {
-    "active": true,
+    "active": false,
     "banners": {
       "l": "assets/instances/eagle/survey-img/desktop.svg",
       "m": "assets/instances/eagle/survey-img/mobile.svg",
