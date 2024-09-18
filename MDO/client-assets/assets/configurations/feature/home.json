@@ -60,7 +60,7 @@
                 "uri": ""
               },
               "enabled": true,
-              "routerLink": "/app/home/approvals/profileverification",
+              "routerLink": "/app/home/approvals/approval",
               "requiredRoles": [
                 "admin",
                 "mdo_admin",
