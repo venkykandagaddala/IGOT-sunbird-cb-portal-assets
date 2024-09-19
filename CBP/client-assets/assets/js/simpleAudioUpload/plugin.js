@@ -79,7 +79,7 @@ CKEDITOR.plugins.add('simpleAudioUpload', {
                         }
                         ele.setAttribute('src', artifactUrlUpdated)
                         ele.setAttribute('controls', true)
-                        ele.setAttribute('controlsList', 'nodownload')
+                        ele.setAttribute('controlsList', 'nodownload noplaybackrate')
                         editor.insertElement(ele)
                         editor.document.getById('loader').remove()
                         audiofileDialog.val('')
