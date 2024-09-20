@@ -1432,7 +1432,10 @@
         "atinotopassessments": "Currently, there are no top assessments available. Please check back later for updates on our upcoming assessments",
         "noCbpData": "No capacity building plans yet.",
         "trainingInstitutions": "Training Institutions",
-        "providers": "Providers"
+        "providers": "Providers",
+        "notMyUser1": "You are no longer recognized as a user by your current organization, and access to the platform will end ",
+        "notMyUser2": "within 48 hours",
+        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -2252,7 +2255,8 @@
         "cadre": "Cadre",
         "batch" : "Batch",
         "requestForService": "Request for service",
-        "cadreControllingAuthority": "Cadre Controlling Authority"
+        "cadreControllingAuthority": "Cadre Controlling Authority",
+        "notMyUseAccessRevoke": "Your access has been revoked because your organization no longer identifies you as a user. To regain access, please submit a \"Transfer Request\" and choose the correct organization."
     },
     "mobileApp": {}
 }
