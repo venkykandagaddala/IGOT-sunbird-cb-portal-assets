@@ -1098,7 +1098,7 @@
     }
   ],
   "surveyForm": {
-    "active": true,
+    "active": false,
     "surveyFormData": [
       {
         "title": "Take the iGOT Survey, help us make iGOT even better!",
@@ -1110,7 +1110,7 @@
     ]
   },
   "surveyPopup": {
-    "active": true,
+    "active": false,
     "banners": {
       "l": "assets/instances/eagle/survey-img/desktop.svg",
       "m": "assets/instances/eagle/survey-img/mobile.svg",
