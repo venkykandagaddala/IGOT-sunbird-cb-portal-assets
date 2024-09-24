@@ -1098,7 +1098,7 @@
     }
   ],
   "surveyForm": {
-    "active": true,
+    "active": false,
     "surveyFormData": [
       {
         "title": "Take the iGOT Survey, help us make iGOT even better!",
