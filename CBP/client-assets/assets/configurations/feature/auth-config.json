@@ -486,7 +486,7 @@
               ]
             },
             {
-              "name": "CQF content",
+              "name": "CQF Content",
               "key": "cqf-content",
               "fragment": false,
               "render": true,
