@@ -1123,6 +1123,14 @@
     "buttonName": "Take Survey",
     "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e250da8bfb500083136b1"
   },
+  "nationalLearningWeek": {
+    "enabled": true,
+    "startDate": "30-09-2024",
+    "endDate": "06-10-2024",
+    "title": "Celebrate National Learning Week",
+    "description": "Digital Marketing conference dedicated to delivering actionable methods and strategies covering all aspects of online marketing",
+    "buttonText": "View More"
+  },
   "mdoChannelMobile": {
     "qa": {
       "active": true,

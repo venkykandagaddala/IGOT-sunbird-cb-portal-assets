@@ -110,24 +110,6 @@
                     ]
                 },
                 {
-                    "name": "Designations",
-                    "key": "sign-up-positions",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/requests/designation",
-                    "requiredRoles": [
-                        "SPV_ADMIN",
-                        "STATE_ADMIN",
-                        "spv_admin",
-                        "state_admin"
-                    ]
-                },
-                {
                     "name": "Organisations",
                     "key": "sign-up-organisations",
                     "fragment": false,
