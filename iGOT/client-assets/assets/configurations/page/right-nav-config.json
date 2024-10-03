@@ -1,5 +1,4 @@
 {
-
   "topRightNavConfig": [
     {
       "id": 1,
@@ -25,6 +24,36 @@
       "id": 5,
       "section": "language",
       "active": true
+    }
+  ],
+  "footerSectionConfig": [
+    {
+      "id": 1,
+      "order": 1,
+      "sectionHeading": "hubs",
+      "active": true,
+      "slug": "hub"
+    },
+    {
+      "id": 2,
+      "order": 2,
+      "sectionHeading": "relatedLinks",
+      "active": true,
+      "slug": "link"
+    },
+    {
+      "id": 3,
+      "order": 3,
+      "sectionHeading": "support",
+      "active": true,
+      "slug": "support"
+    },
+    {
+      "id": 4,
+      "order": 4,
+      "sectionHeading": "aboutUs",
+      "active": true,
+      "slug": "about"
     }
   ]
 }
