@@ -853,7 +853,8 @@
     "backToAssessment": "मूल्यांकन पर वापस जाएँ",
     "section": "अनुभाग",
     "noOfQuestions": "प्रश्नों की संख्या",
-    "markedForReview": "समीक्षा के लिए चिह्नित"
+    "markedForReview": "समीक्षा के लिए चिह्नित",
+    "paragraphLabel": "पैराग्राफ को पढ़ें और नीचे दिए गए प्रश्न का उत्तर दें।"
   },
   "quizresult": {
     "score": "अंक",
@@ -1412,7 +1413,7 @@
     "recentlyAdded": "नए जोड़े गए",
     "youWillFindYourCompletedCourses/programHere": "आपको यहां अपने पूरे किए गए कोर्स/कार्यक्रम मिलेंगे।",
     "today'sEvents": "आज के इवेंट्स",
-    "noDataCourse":"कोई पाठ्यक्रम उपलब्ध नहीं.",
+    "noDataCourse": "कोई पाठ्यक्रम उपलब्ध नहीं.",
     "youDon’tHaveAnyNewCourseInProgress.": "आपके पास कोई सामग्री प्रगति पर नहीं है।",
     "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "आपको वह सभी कंटेन्ट दिखेंगे जिसकी नियत तारीख 30 दिनों के भीतर है।",
     "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जो आपको अगले 30 दिनों में पूरा करना है।",
@@ -2326,7 +2327,7 @@
     "typeOfCivilService": "सिविल सेवा का प्रकार",
     "serviceType": "सेवा",
     "cadre": "संवर्ग",
-    "batch" : "बैच",
+    "batch": "बैच",
     "requestForService": "सेवा के लिए अनुरोध",
     "cadreControllingAuthority": "संवर्ग नियंत्रण प्राधिकरण",
     "notMyUseAccessRevoke": "आपकी पहुंच रद्द कर दी गई है क्योंकि आपका संगठन अब आपकी पहचान एक उपयोगकर्ता के रूप में नहीं करता है। पहुँच पुनः प्राप्त करने के लिए, कृपया \"स्थानांतरण अनुरोध\" जमा करें और सही संगठन का चयन करें।"

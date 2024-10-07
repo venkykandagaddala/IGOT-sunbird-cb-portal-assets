@@ -856,7 +856,8 @@
     "backToAssessment": "મૂલ્યાંકન પર પાછા ફરો",
     "section": "વિભાગ",
     "noOfQuestions": "પ્રશ્નોની સંખ્યા",
-    "markedForReview": "સમીક્ષા માટે ચિહ્નિત થયેલ"
+    "markedForReview": "સમીક્ષા માટે ચિહ્નિત થયેલ",
+    "paragraphLabel": "ફકરો વાંચો અને નીચેના પ્રશ્નનો જવાબ આપો."
   },
   "quizresult": {
     "score": "સ્કોર",
