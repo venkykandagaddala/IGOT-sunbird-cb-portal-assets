@@ -49,6 +49,11 @@
         "value": "Karmayogi Talks",
         "enabledFor": ["Youtube"]
     },
+     {
+        "name": "Know Your Ministry",
+        "value": "Know Your Ministry",
+        "enabledFor": ["PDF","Link","Youtube"]
+    },
     {
         "name": "Others",
         "value": "Others",
