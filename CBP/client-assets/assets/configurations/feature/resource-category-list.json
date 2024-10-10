@@ -55,11 +55,6 @@
         "enabledFor": ["PDF","Link","Youtube"]
     },
     {
-        "name": "Know Your Ministry",
-        "value": "Know Your Ministry",
-        "enabledFor": ["PDF","Link"]
-    },
-    {
         "name": "Others",
         "value": "Others",
         "enabledFor": ["MP4","PDF","MP3","Youtube","Link"]
