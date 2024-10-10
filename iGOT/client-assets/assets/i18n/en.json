@@ -853,7 +853,8 @@
         "backToAssessment": "Back to assessment",
         "section": "Section",
         "noOfQuestions": "No of Questions",
-        "markedForReview": "Marked for Review"
+        "markedForReview": "Marked for Review",
+        "paragraphLabel": "Read the paragraph and answer the question below"
     },
     "quizresult": {
         "score": "score",
@@ -2253,7 +2254,7 @@
         "typeOfCivilService": "Type of Civil Service",
         "serviceType": "Service",
         "cadre": "Cadre",
-        "batch" : "Batch",
+        "batch": "Batch",
         "requestForService": "Request for service",
         "cadreControllingAuthority": "Cadre Controlling Authority",
         "notMyUseAccessRevoke": "Your access has been revoked because your organization no longer identifies you as a user. To regain access, please submit a \"Transfer Request\" and choose the correct organization."
