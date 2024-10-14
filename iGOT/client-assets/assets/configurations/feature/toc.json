@@ -334,5 +334,99 @@
       "contentImg": "assets/icons/learner-advisory/follow-suggestions.png"
     }
   ],
-  "ScormProgressThreshold": 40
+  "ScormProgressThreshold": 40,
+  "discussWidgetData": {
+    "newCommentSection": {
+      "show": true,
+      "showTopInfo": false,
+      "commentTreeData": {
+        "isFirstComment": true,
+        "commentTreeId": "",
+        "hierarchyPath": [],
+        "entityType": "igot",
+        "entityId": "do_11407955440633446419",
+        "workflow": "TOC"
+      },
+      "topInfo": {
+        "icon": "forum",
+        "text": "<span>Do you have any questions, suggestions or ideas in your mind?Post it.</span>"
+      },
+      "avatarPhoto": {
+        "show": true,
+        "size": "ml",
+        "photoUrl": "https://portal.dev.karmayogibharat.net/assets/public/profileImage/1725443303744_images.jpeg",
+        "name": "Christopher Fernandes"
+      },
+      "commentBox": {
+        "placeholder": "Ask a question or post a comment"
+      },
+      "postBtn": {
+        "text": "Post"
+      }
+    },
+    "commentsList": {
+      "cardType": "topLevel",
+      "showActions": true,
+      "actions": {
+        "like": {
+          "show": true,
+          "showCount": true,
+          "icon": "thumb_up"
+        },
+        "comments": {
+          "show": true,
+          "showCount": true,
+          "icon": "comment"
+        }
+      },
+      "repliesSection": {
+        "show": true,
+        "newCommentReply": {
+          "show": true,
+          "showTopInfo": false,
+          "commentTreeData": {
+            "isFirstComment": false,
+            "commentTreeId": "",
+            "hierarchyPath": [],
+            "entityType": "igot",
+            "entityId": "do_11407955440633446419",
+            "workflow": "TOC"
+          },
+          "topInfo": {
+            "icon": "forum",
+            "text": "<div>Do you have any questions, suggestions or ideas in your mind?Post it.</div>"
+          },
+          "avatarPhoto": {
+            "show": true,
+            "size": "ml",
+            "photoUrl": "https://portal.dev.karmayogibharat.net/assets/public/profileImage/1725443303744_images.jpeg",
+            "name": "Christopher Fernandes"
+          },
+          "commentBox": {
+            "placeholder": "post a reply"
+          },
+          "postBtn": {
+            "text": "Reply"
+          }
+        },
+        "replyCardConfig": {
+          "cardType": "reply",
+          "showActions": true,
+          "actions": {
+            "like": {
+              "show": true,
+              "showCount": true,
+              "icon": "thumb_up"
+            }
+          },
+          "repliesSection": {
+            "show": false
+          }
+        }
+      },
+      "noCommentsSection": {
+        "text": "No comments found!"
+      }
+    }
+  }
 }
