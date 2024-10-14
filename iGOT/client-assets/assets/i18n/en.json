@@ -938,7 +938,8 @@
         "curatedEvents": "Curated events",
         "mdoEvents": "Events in your MDO",
         "webinar": "Webinar",
-        "karmayogiTalks": "Karmayogi Talks"
+        "karmayogiTalks": "Karmayogi Talks",
+        "karmayogiSaptah": "Karmayogi Saptah"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -946,7 +947,8 @@
         "joinEvent": "Join event",
         "eventIsYetToStart": "Event is yet to start",
         "eventType": "Event Type",
-        "hostedBy": "Hosted By"
+        "hostedBy": "Hosted By",
+        "enroll": "Enroll"
     },
     "eventPresentorsCard": {
         "host": "Host"

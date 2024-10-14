@@ -109,5 +109,23 @@
           }
         }
       ]
-    } 
+    },
+    "karmaPoints": [
+    {
+      "displayButton": "Enroll",
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "firstEnroll",
+      "toolTipText": "firstEnrollTip"
+    },
+    {
+      "displayButton": "Start",
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "courseCompleteTip"
+    }
+  ]
 }
