@@ -939,7 +939,18 @@
         "mdoEvents": "Events in your MDO",
         "webinar": "Webinar",
         "karmayogiTalks": "Karmayogi Talks",
-        "karmayogiSaptah": "Karmayogi Saptah"
+        "live": "Live",
+        "karmayogiSaptah": "Karmayogi Saptah",
+        "earn": "Earn",
+        "claim": "Claim",
+        "karmaPoints": "Karma Points",
+        "moreKarmaPoints": "more KarmaPoints",
+        "enroll": "for your event enrolment.",
+        "enrollTip": "For every enrollment you get 5 karma points",
+        "eventCompleteTip": "Every event completion automatically gets you 5 Karma Points.",
+        "byCompleting": "by completing this event.",
+        "completeBeforeText": "Congrats! You've completed the event and earned",
+        "fKarmaPoints": "5 Karma Points"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",

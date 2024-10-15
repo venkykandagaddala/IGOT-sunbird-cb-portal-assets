@@ -116,8 +116,8 @@
       "textBeforeIcon": "earn",
       "points": "5",
       "textAfterPoints": "karmaPoints",
-      "textAfterIcon": "firstEnroll",
-      "toolTipText": "firstEnrollTip"
+      "textAfterIcon": "enroll",
+      "toolTipText": "enrollTip"
     },
     {
       "displayButton": "Start",
@@ -125,7 +125,15 @@
       "points": "5",
       "textAfterPoints": "karmaPoints",
       "textAfterIcon": "byCompleting",
-      "toolTipText": "courseCompleteTip"
+      "toolTipText": "eventCompleteTip"
+    },
+    {
+      "displayButton": "completed",
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "completeBeforeText",
+      "toolTipText": ""
     }
   ]
 }
