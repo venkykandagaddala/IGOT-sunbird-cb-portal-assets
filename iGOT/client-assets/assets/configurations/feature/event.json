@@ -112,27 +112,19 @@
     },
     "karmaPoints": [
     {
-      "displayButton": "Enroll",
+      "displayButton": "Complete",
       "textBeforeIcon": "earn",
-      "points": "5",
+      "points": "10",
       "textAfterPoints": "karmaPoints",
-      "textAfterIcon": "enroll",
-      "toolTipText": "enrollTip"
-    },
-    {
-      "displayButton": "Start",
-      "textBeforeIcon": "earn",
-      "points": "5",
-      "textAfterPoints": "karmaPoints",
-      "textAfterIcon": "byCompleting",
-      "toolTipText": "eventCompleteTip"
+      "textAfterIcon": "byCompletingEvent",
+      "toolTipText": "eventCompleteTipEvent"
     },
     {
       "displayButton": "completed",
       "textBeforeIcon": "earn",
-      "points": "5",
+      "points": "10",
       "textAfterPoints": "karmaPoints",
-      "textAfterIcon": "completeBeforeText",
+      "textAfterIcon": "completeBeforeTextEvent",
       "toolTipText": ""
     }
   ]
