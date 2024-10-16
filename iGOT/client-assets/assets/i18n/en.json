@@ -941,16 +941,7 @@
         "karmayogiTalks": "Karmayogi Talks",
         "live": "Live",
         "karmayogiSaptah": "Karmayogi Saptah",
-        "earn": "Earn",
-        "claim": "Claim",
-        "karmaPoints": "Karma Points",
-        "moreKarmaPoints": "more KarmaPoints",
-        "enroll": "for your event enrolment.",
-        "enrollTip": "For every enrollment you get 5 karma points",
-        "eventCompleteTip": "Every event completion automatically gets you 5 Karma Points.",
-        "byCompleting": "by completing this event.",
-        "completeBeforeText": "Congrats! You've completed the event and earned",
-        "fKarmaPoints": "5 Karma Points"
+        "moreKarmaPoints": "more KarmaPoints"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -959,7 +950,8 @@
         "eventIsYetToStart": "Event is yet to start",
         "eventType": "Event Type",
         "hostedBy": "Hosted By",
-        "enroll": "Enroll"
+        "enroll": "Enroll",
+        "noBatchErrormsg":"No batches available!"
     },
     "eventPresentorsCard": {
         "host": "Host"
@@ -1320,7 +1312,13 @@
         "completeTip": "For every My iGOT course you complete (as per ACBP), you will earn 15 Karma Points. For every other course you complete, you will earn 5 Karma Points, up to a maximum of four courses per month. Start learning and watch your Karma grow!",
         "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
         "fKarmaPoints": "5 Karma Points",
-        "courseEnrollement": "for your 1st course enrolment!"
+        "courseEnrollement": "for your 1st course enrolment!",
+        "enrollEvent": "for your event enrolment.",
+        "enrollTipEvent": "For every enrollment you get 5 karma points",
+        "eventCompleteTipEvent": "Every event completion automatically gets you 5 Karma Points.",
+        "byCompletingEvent": "by completing this event.",
+        "completeBeforeTextEvent": "Congrats! You've completed the event and earned",
+        "fKarmaPointsEvent": "5 Karma Points"
     },
     "publicHome": {
         "mainSectionContent": "Learn. Network. Grow your career.",
