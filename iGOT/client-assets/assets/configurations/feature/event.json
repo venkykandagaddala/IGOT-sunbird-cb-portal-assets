@@ -45,7 +45,7 @@
           "active": true,
           "key": "todaysevents",
           "logo": "school",
-          "title": "Today's events",
+          "title": "Live Events",
           "stripTitleLink": {
             "link": "",
             "icon": ""
@@ -53,7 +53,7 @@
           "sliderConfig": {
             "showNavs": true,
             "showDots": false,
-            "maxWidgets": 12
+            "maxWidgets": 20
           },
           "loader": true,
           "loaderConfig": {
