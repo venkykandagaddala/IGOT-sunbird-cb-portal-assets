@@ -1315,7 +1315,7 @@
         "courseEnrollement": "for your 1st course enrolment!",
         "enrollEvent": "for your event enrolment.",
         "enrollTipEvent": "For every enrollment you get 5 karma points",
-        "eventCompleteTipEvent": "Every event completion automatically gets you 5 Karma Points.",
+        "eventCompleteTipEvent": "Every event completion automatically gets you 10 Karma Points.",
         "byCompletingEvent": "by completing this event.",
         "completeBeforeTextEvent": "Congrats! You've completed the event and earned",
         "fKarmaPointsEvent": "5 Karma Points"
