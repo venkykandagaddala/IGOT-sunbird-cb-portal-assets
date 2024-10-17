@@ -1317,7 +1317,7 @@
         "enrollTipEvent": "For every enrollment you get 5 karma points",
         "eventCompleteTipEvent": "Every event completion automatically gets you 10 Karma Points.",
         "byCompletingEvent": "by completing this event.",
-        "completeBeforeTextEvent": "Congrats! You've completed the event and earned",
+        "completeBeforeTextEvent": "Congrats! You've completed the event and earned 10 karma points",
         "fKarmaPointsEvent": "5 Karma Points"
     },
     "publicHome": {

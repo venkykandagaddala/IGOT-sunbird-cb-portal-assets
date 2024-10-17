@@ -121,8 +121,8 @@
     },
     {
       "displayButton": "completed",
-      "textBeforeIcon": "earn",
-      "points": "10",
+      "textBeforeIcon": "",
+      "points": "",
       "textAfterPoints": "karmaPoints",
       "textAfterIcon": "completeBeforeTextEvent",
       "toolTipText": ""
