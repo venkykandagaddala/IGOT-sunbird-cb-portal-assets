@@ -853,7 +853,8 @@
         "backToAssessment": "Back to assessment",
         "section": "Section",
         "noOfQuestions": "No of Questions",
-        "markedForReview": "Marked for Review"
+        "markedForReview": "Marked for Review",
+        "paragraphLabel": "Read the paragraph and answer the question below"
     },
     "quizresult": {
         "score": "score",
@@ -1432,7 +1433,10 @@
         "atinotopassessments": "Currently, there are no top assessments available. Please check back later for updates on our upcoming assessments",
         "noCbpData": "No capacity building plans yet.",
         "trainingInstitutions": "Training Institutions",
-        "providers": "Providers"
+        "providers": "Providers",
+        "notMyUser1": "You are no longer recognized as a user by your current organization, and access to the platform will end ",
+        "notMyUser2": "within 48 hours",
+        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -2250,9 +2254,10 @@
         "typeOfCivilService": "Type of Civil Service",
         "serviceType": "Service",
         "cadre": "Cadre",
-        "batch" : "Batch",
+        "batch": "Batch",
         "requestForService": "Request for service",
-        "cadreControllingAuthority": "Cadre Controlling Authority"
+        "cadreControllingAuthority": "Cadre Controlling Authority",
+        "notMyUseAccessRevoke": "Your access has been revoked because your organization no longer identifies you as a user. To regain access, please submit a \"Transfer Request\" and choose the correct organization."
     },
     "mobileApp": {}
 }

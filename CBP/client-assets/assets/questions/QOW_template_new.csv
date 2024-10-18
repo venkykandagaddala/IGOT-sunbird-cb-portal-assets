@@ -1,0 +1,4 @@
+﻿QuestionNo,QuestionType,Question,MaximumMarks,Option1,Option1Weight,Option2,Option2Weight,Option3,Option3Weight,Option4,Option4Weight,Option5,Option5Weight,Option6,Option6Weight,Option7,Option7Weight,Option8,Option8Weight,Option9,Option9Weight,Option10,Option10Weight
+1,MCQ-SCA-W,Sample Question 1,5,Triangle,10,Square,20,Round,30,Rectangle,40,None of the above,0,,,,,,,,,,
+2,MCQ-SCA-W,Sample Question 2,5,White,10,Round,20,Big,30,Square,40,None of the above,0,,,,,,,,,,
+4,MCQ-SCA-W,Sample Question 3,5,Moon,10,Boat,10,Car,10,Mango,10,Potato,10,,,,,,,,,,

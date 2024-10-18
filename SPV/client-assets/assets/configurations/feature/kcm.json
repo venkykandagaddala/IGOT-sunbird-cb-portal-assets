@@ -173,7 +173,7 @@
                     "enableView": true,
                     "enabaleEdit": true,
                     "enableThreeDot": true,
-                    "showSearch": false
+                    "showSearch": true
                 },
                 {
                     "index": 3,
@@ -188,7 +188,7 @@
                     "enableView": true,
                     "enabaleEdit": true,
                     "enableThreeDot": true,
-                    "showSearch": false
+                    "showSearch": true
                 }
             ]
         }
@@ -225,7 +225,7 @@
                     "enableView": true,
                     "enabaleEdit": true,
                     "enableThreeDot": true,
-                    "showSearch": false
+                    "showSearch": true
                 },
                 {
                     "index": 3,
@@ -240,7 +240,7 @@
                     "enableView": true,
                     "enabaleEdit": true,
                     "enableThreeDot": true,
-                    "showSearch": false
+                    "showSearch": true
                 }
             ]
         }

@@ -33,8 +33,8 @@
                             "state_admin"
                         ]
                       }
-                   
-                   
+
+
                     ]
                   }
             ],
@@ -258,9 +258,25 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
+                },
+                {
+                    "name": "Surveys",
+                    "key": "Surveys",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/survey",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
                 }
             ]
-          
+
         }
     }
 }
