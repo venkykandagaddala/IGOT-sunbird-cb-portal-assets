@@ -2166,6 +2166,7 @@
         "category": "Category",
         "officePinCode": "Office Pin Code",
         "eHRMSId": "eHRMS ID/External System ID",
+        "dor": "Date of Retirement",
         "saveChanges": "Save Changes",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",
@@ -2253,7 +2254,7 @@
         "typeOfCivilService": "Type of Civil Service",
         "serviceType": "Service",
         "cadre": "Cadre",
-        "batch" : "Batch",
+        "batch": "Batch",
         "requestForService": "Request for service",
         "cadreControllingAuthority": "Cadre Controlling Authority",
         "notMyUseAccessRevoke": "Your access has been revoked because your organization no longer identifies you as a user. To regain access, please submit a \"Transfer Request\" and choose the correct organization."
