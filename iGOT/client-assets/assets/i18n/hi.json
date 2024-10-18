@@ -940,7 +940,8 @@
     "webinar": "वेबिनार",
     "karmayogiTalks": "कर्मयोगी टॉक्स",
     "live": "लाइव",
-    "karmayogiSaptah": "कर्मयोगी सप्ताह"
+    "karmayogiSaptah": "कर्मयोगी सप्ताह",
+    "completedEvent": "आपने यह ईवेंट पूरा लिया"
   },
   "eventDetailsRightCard": {
     "viewRecording": "रिकॉर्डिंग देखें",

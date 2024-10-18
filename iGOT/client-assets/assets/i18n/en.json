@@ -941,7 +941,8 @@
         "karmayogiTalks": "Karmayogi Talks",
         "live": "Live",
         "karmayogiSaptah": "Karmayogi Saptah",
-        "moreKarmaPoints": "more KarmaPoints"
+        "moreKarmaPoints": "more KarmaPoints",
+        "completedEvent": "You completed this event on"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
